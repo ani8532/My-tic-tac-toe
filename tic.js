@@ -14,6 +14,7 @@ let turno = true;
     [2,5,8],
     [2,4,6],
     [6,7,8],
+  [3,4,5],
  ];
  const resetGame = () => {
     turno = true;
